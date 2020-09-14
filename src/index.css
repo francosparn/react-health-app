@@ -1,0 +1,40 @@
+*{
+  font-family: 'Century Gothic';
+}
+
+label{
+  font-weight: 600;
+}
+
+.required{
+  color: red;
+}
+
+.header{
+  height: 60px;
+  color: #fff;
+  font-size: 1.5rem;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(-225deg, #6db8eb 0%, #2e6f9b 52%, #054286cb 100%);
+}
+
+.main-img{
+  padding-bottom: 10px;
+}
+
+.form{
+  margin-bottom: 25px;
+}
+
+.button{
+  margin-top: 20px;
+  background-color: rgb(4, 99, 177);
+  color: #fff;
+}
+
+.button:hover{
+  color: #fff;
+  background-color: #074a97;
+}
