@@ -2,6 +2,7 @@ import React, { Fragment, useState, useEffect } from 'react';
 import Header from './components/Header';
 import Form from './components/Form';
 import Turn from './components/Turn';
+import Footer from './components/Footer';
 import swal from 'sweetalert';
 
 function App() {
@@ -72,6 +73,8 @@ function App() {
               </div>
           </div>
       </div>
+
+      <Footer />
 
     </Fragment>
   );

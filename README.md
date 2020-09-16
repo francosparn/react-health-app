@@ -1,11 +1,3 @@
-## Preview
-
-Medical appointment application made with React. Other technologies used: HTML, CSS and Bootstrap 4. The Sweet Alert 2 module is used for the added appointment and deleted appointment alerts.
-
-![](https://i.imgur.com/Z5tb0CG.png)
-
-![](https://i.imgur.com/lPOJYZD.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

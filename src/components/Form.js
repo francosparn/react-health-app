@@ -136,12 +136,12 @@ const Form = ({createTurn}) => {
                 </div>
 
                 <div className="form-group">
-                    <label>Obra Social: <span className="required">*</span></label>
+                    <label>Cobertura Médica: <span className="required">*</span></label>
                     <select className="form-control"
                             onChange={stateUpdate}
                             name="social"
                             defaultValue="social">
-                        <option defaultValue>Seleccione una obra social</option>
+                        <option defaultValue>Seleccione su cobertura médica</option>
                         <option>Pública</option>
                         <option>Privada</option>
                     </select>

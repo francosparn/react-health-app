@@ -26,7 +26,7 @@ const Turn = ({turn, deleteTurn}) => (
 
             <p><img src="img/social.png" 
                     alt="social" /> 
-            <b> Obra Social</b>: <span>{turn.social}</span>
+            <b> Cobertura Médica</b>: <span>{turn.social}</span>
             </p>
             
             <p><img src="img/observation.png" 

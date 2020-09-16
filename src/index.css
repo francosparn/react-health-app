@@ -38,3 +38,15 @@ label{
   color: #fff;
   background-color: #074a97;
 }
+
+.footer{
+  font-family: 'Montserrat';
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffff;
+  font-size: .8rem;
+  font-weight: 900;
+  padding-top: 12px;
+  height: 45px;
+  background-color: rgba(8, 91, 146, 0.925);
+}
