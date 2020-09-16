@@ -1,6 +1,6 @@
 ## Preview
 
-Application of medical appointments carried out with React. Other technologies used: HTML and Bootstrap 4. It also uses a module for Sweet Alert 2 alert messages.
+Application of medical appointments carried out with React. Other technologies used: HTML and Bootstrap 4. It also uses a module for Sweet Alert 2 alert messages. Medical appointments are stored in LocalStorage.
 
 ![](https://i.imgur.com/tVmbxvk.png)
 
