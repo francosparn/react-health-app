@@ -1,3 +1,11 @@
+## Preview
+
+Application of medical appointments carried out with React. Other technologies used: HTML and Bootstrap 4. It also uses a module for Sweet Alert 2 alert messages.
+
+![](https://i.imgur.com/tVmbxvk.png)
+
+![](https://i.imgur.com/YjwbxMP.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
